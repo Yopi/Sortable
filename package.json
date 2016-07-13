@@ -1,6 +1,6 @@
 {
   "name": "sortablejs",
-  "exportName": "Sortable",
+  "exportName": "Sortable-yopi",
   "version": "1.4.3",
   "devDependencies": {
     "grunt": "*",
